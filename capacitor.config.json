@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.itgenius.ionic-firebase-crud",
   "appName": "ionic-firebase-crud",
   "bundledWebRuntime": false,
   "npmClient": "npm",
